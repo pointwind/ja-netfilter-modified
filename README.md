@@ -1,5 +1,7 @@
 # [ja-netfilter-modified](https://github.com/v-JiangNan/ja-netfilter-modified)
 
+### 近期更新，敬请期待 （现版本仍可用，但必须保持IDE断网）
+
 本项目仅在**Pycharm**上测试有效，其他IDE请自行测试。
 
 ---
