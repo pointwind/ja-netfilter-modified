@@ -1,10 +1,10 @@
 # [ja-netfilter-modified](https://github.com/v-JiangNan/ja-netfilter-modified)
 
-### 近期更新，敬请期待 （现版本仍可用，但必须保持IDE断网）
-
-本项目仅在**Pycharm**上测试有效，其他IDE请自行测试。
-
 ---
+
+## 提示
+
+本项目仅在IDEA、PyCharm、GoLand上测试有效，其他IDE请自行测试。
 
 ## ja-netfilter介绍
 ja-netfilter是由知了大佬开发的Java代理工具，可用于激活JetBrains系软件。
@@ -59,6 +59,9 @@ Linux系统可在下列路径中查找并删除：
 ~/.config/JetBrains/
 ~/.cache/JetBrains/
 ```
+### 指定的激活码不适用于此产品
+
+请自行搜索该IDE可用的激活码，理论上激活后永久有效。验证有效后欢迎提交反馈。
 
 ## 写在最后
 
